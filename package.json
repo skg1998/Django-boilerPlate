@@ -1,0 +1,15 @@
+{
+  "name": "hmriteans",
+  "version": "1.0.1",
+  "description": "django project of hmriteans",
+  "scripts": {
+  },
+  "author": "Team Forsaken",
+  "engines": {
+      "node": ">=10.0.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
