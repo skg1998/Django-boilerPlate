@@ -31,7 +31,7 @@ $
 $ # Access the web app in browser: http://127.0.0.1:8000/
 ```
 
-> Note: To use the app, please access the registration page and create a new user. After authentication, the app will unlock the private pages.
+> Note: To use the dashboard, please access http://127.0.0.1/dashboard the registration page and create a new user. After authentication, the app will unlock the private pages.
 
 <br />
 
